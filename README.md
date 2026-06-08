@@ -26,4 +26,4 @@ Using **Pandas** and **NumPy** in a Google Colab environment, the following inco
 ## 🚀 How to Run the Project
 1. Clone this repository:
    ```bash
-  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/femiraj26/customer-data-cleaning/blob/main/Customers_Data_Cleaning.ipynb)
+  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/femiraj26/customer-data-cleaning/blob/master/Customers_Data_Cleaning.ipynb)
